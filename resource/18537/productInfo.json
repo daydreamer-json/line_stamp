@@ -1,1 +1,176 @@
-{"packageId":18537,"onSale":true,"validDays":0,"title":{"en":"Rent-A-Girlfriend Anime Voice Stickers","ja":"「彼女、お借りします」ボイススタンプ"},"author":{"en":"Creative Plus","ja":"Creative Plus"},"price":[{"country":"@@","currency":"NLC","symbol":"NLC","price":100.0},{"country":"ID","currency":"IDR","symbol":"Rp","price":18700.0},{"country":"JP","currency":"JPY","symbol":"￥","price":240.0},{"country":"TH","currency":"THB","symbol":"THB","price":60.0},{"country":"TW","currency":"TWD","symbol":"NT$","price":70.0},{"country":"US","currency":"USD","symbol":"$","price":1.99}],"stickers":[{"id":350279022,"width":203,"height":175},{"id":350279023,"width":210,"height":175},{"id":350279024,"width":210,"height":175},{"id":350279025,"width":210,"height":145},{"id":350279026,"width":207,"height":175},{"id":350279027,"width":210,"height":155},{"id":350279028,"width":210,"height":175},{"id":350279029,"width":204,"height":175},{"id":350279030,"width":210,"height":155},{"id":350279031,"width":210,"height":175},{"id":350279032,"width":210,"height":165},{"id":350279033,"width":200,"height":175},{"id":350279034,"width":210,"height":175},{"id":350279035,"width":210,"height":175},{"id":350279036,"width":210,"height":138},{"id":350279037,"width":210,"height":160},{"id":350279038,"width":210,"height":175},{"id":350279039,"width":165,"height":175},{"id":350279040,"width":210,"height":175},{"id":350279041,"width":210,"height":175},{"id":350279042,"width":210,"height":153},{"id":350279043,"width":210,"height":175},{"id":350279044,"width":210,"height":158},{"id":350279045,"width":173,"height":175}],"hasAnimation":false,"hasSound":true,"stickerResourceType":"SOUND"}
+{
+  "packageId": 18537,
+  "onSale": true,
+  "validDays": 0,
+  "title": {
+    "en": "Rent-A-Girlfriend Anime Voice Stickers",
+    "ja": "「彼女、お借りします」ボイススタンプ"
+  },
+  "author": {
+    "en": "Creative Plus",
+    "ja": "Creative Plus"
+  },
+  "price": [
+    {
+      "country": "@@",
+      "currency": "NLC",
+      "symbol": "NLC",
+      "price": 100
+    },
+    {
+      "country": "ID",
+      "currency": "IDR",
+      "symbol": "Rp",
+      "price": 18700
+    },
+    {
+      "country": "JP",
+      "currency": "JPY",
+      "symbol": "￥",
+      "price": 240
+    },
+    {
+      "country": "TH",
+      "currency": "THB",
+      "symbol": "THB",
+      "price": 60
+    },
+    {
+      "country": "TW",
+      "currency": "TWD",
+      "symbol": "NT$",
+      "price": 70
+    },
+    {
+      "country": "US",
+      "currency": "USD",
+      "symbol": "$",
+      "price": 1.99
+    }
+  ],
+  "stickers": [
+    {
+      "id": 350279022,
+      "width": 203,
+      "height": 175
+    },
+    {
+      "id": 350279023,
+      "width": 210,
+      "height": 175
+    },
+    {
+      "id": 350279024,
+      "width": 210,
+      "height": 175
+    },
+    {
+      "id": 350279025,
+      "width": 210,
+      "height": 145
+    },
+    {
+      "id": 350279026,
+      "width": 207,
+      "height": 175
+    },
+    {
+      "id": 350279027,
+      "width": 210,
+      "height": 155
+    },
+    {
+      "id": 350279028,
+      "width": 210,
+      "height": 175
+    },
+    {
+      "id": 350279029,
+      "width": 204,
+      "height": 175
+    },
+    {
+      "id": 350279030,
+      "width": 210,
+      "height": 155
+    },
+    {
+      "id": 350279031,
+      "width": 210,
+      "height": 175
+    },
+    {
+      "id": 350279032,
+      "width": 210,
+      "height": 165
+    },
+    {
+      "id": 350279033,
+      "width": 200,
+      "height": 175
+    },
+    {
+      "id": 350279034,
+      "width": 210,
+      "height": 175
+    },
+    {
+      "id": 350279035,
+      "width": 210,
+      "height": 175
+    },
+    {
+      "id": 350279036,
+      "width": 210,
+      "height": 138
+    },
+    {
+      "id": 350279037,
+      "width": 210,
+      "height": 160
+    },
+    {
+      "id": 350279038,
+      "width": 210,
+      "height": 175
+    },
+    {
+      "id": 350279039,
+      "width": 165,
+      "height": 175
+    },
+    {
+      "id": 350279040,
+      "width": 210,
+      "height": 175
+    },
+    {
+      "id": 350279041,
+      "width": 210,
+      "height": 175
+    },
+    {
+      "id": 350279042,
+      "width": 210,
+      "height": 153
+    },
+    {
+      "id": 350279043,
+      "width": 210,
+      "height": 175
+    },
+    {
+      "id": 350279044,
+      "width": 210,
+      "height": 158
+    },
+    {
+      "id": 350279045,
+      "width": 173,
+      "height": 175
+    }
+  ],
+  "hasAnimation": false,
+  "hasSound": true,
+  "stickerResourceType": "SOUND"
+}
