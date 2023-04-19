@@ -1,0 +1,25 @@
+{
+  "name": "line_stamp",
+  "version": "0.0.1",
+  "description": "Download and save LINE sticker.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daydreamer-json/line_stamp.git"
+  },
+  "author": "daydreamer-json",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daydreamer-json/line_stamp/issues"
+  },
+  "homepage": "https://github.com/daydreamer-json/line_stamp#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.3.1",
+    "request": "^2.88.2",
+    "unzipper": "^0.10.11"
+  }
+}
